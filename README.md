@@ -13,7 +13,7 @@ Siga estas instruções para configurar e rodar o projeto em seu ambiente de des
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Diego-Vitali/Coordenadoria-de-Extensao-API.git](https://github.com/Diego-Vitali/Coordenadoria-de-Extensao-API.git)
+    git clone https://github.com/Diego-Vitali/Coordenadoria-de-Extensao-API.git
     cd Coordenadoria-de-Extensao-API
     ```
 
